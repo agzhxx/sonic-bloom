@@ -7,7 +7,13 @@
 [![React](https://img.shields.io/badge/React-19-61dafb.svg)](https://react.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-black.svg)](https://threejs.org/)
 
+## Live demo
+
+**[Launch Sonic Bloom →](https://sonic-bloom.agzhan464699.chatgpt.site)**
+
 Sonic Bloom is an immersive browser-based music player that analyzes local audio in real time and transforms it into an evolving 3D bloom. Instead of using conventional equalizer bars, the app maps frequency bands, spectral energy, and musical onsets to a faceted seed, flowing filaments, responsive particles, light, and motion.
+
+![Sonic Bloom audio-reactive player interface](public/sonic-bloom-preview.jpg)
 
 ## Highlights
 
