@@ -9,7 +9,7 @@
 
 ## Live demo
 
-**[Launch Sonic Bloom →](https://sonic-bloom.agzhan464699.chatgpt.site)**
+**[Launch Sonic Bloom →](https://agzhxx.github.io/sonic-bloom/)**
 
 Sonic Bloom is an immersive browser-based music player that analyzes local audio in real time and transforms it into an evolving 3D bloom. Instead of using conventional equalizer bars, the app maps frequency bands, spectral energy, and musical onsets to a faceted seed, flowing filaments, responsive particles, light, and motion.
 
@@ -96,7 +96,7 @@ Audio files are loaded through an in-memory object URL and analyzed locally. Son
 
 ## Deployment and CI
 
-The GitHub Actions workflow runs the production build and test suite on pushes and pull requests. The live application is deployed separately through Sites because this Vinext project produces a Cloudflare Worker-compatible application rather than a static GitHub Pages bundle.
+GitHub Actions runs the production build and test suite on pushes and pull requests. A separate deployment workflow creates a static browser build and publishes it to GitHub Pages whenever `main` changes.
 
 ## Project structure
 
