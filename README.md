@@ -48,7 +48,7 @@ Sonic Bloom is an immersive browser-based music player that analyzes local audio
 - Tailwind CSS 4 and custom CSS
 - Vinext and Vite
 - Lucide React icons
-- Cloudflare-compatible Sites runtime
+- Static GitHub Pages deployment
 
 ## Getting started
 
